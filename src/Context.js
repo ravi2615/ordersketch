@@ -238,17 +238,7 @@ class ProductProvider extends Component {
     );
   };
 
-  openLogin = () => {
-    this.setState(() => {
-      return { openLogin: true };
-    });
-  };
 
-  closeLogin = () => {
-    this.setState(() => {
-      return { openLogin: false };
-    });
-  };
 
   render() {
     return (
