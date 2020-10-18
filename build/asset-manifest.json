@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ordersketch/static/css/main.410c1768.chunk.css",
+    "main.js": "/ordersketch/static/js/main.b2b50445.chunk.js",
+    "main.js.map": "/ordersketch/static/js/main.b2b50445.chunk.js.map",
+    "runtime-main.js": "/ordersketch/static/js/runtime-main.84ceb867.js",
+    "runtime-main.js.map": "/ordersketch/static/js/runtime-main.84ceb867.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/ordersketch/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4bd849ff.chunk.js": "/ordersketch/static/js/2.4bd849ff.chunk.js",
+    "static/js/2.4bd849ff.chunk.js.map": "/ordersketch/static/js/2.4bd849ff.chunk.js.map",
+    "index.html": "/ordersketch/index.html",
+    "precache-manifest.fdc3ac7eae53ba94cd25d474f76f054b.js": "/ordersketch/precache-manifest.fdc3ac7eae53ba94cd25d474f76f054b.js",
+    "service-worker.js": "/ordersketch/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/ordersketch/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.410c1768.chunk.css.map": "/ordersketch/static/css/main.410c1768.chunk.css.map",
+    "static/js/2.4bd849ff.chunk.js.LICENSE.txt": "/ordersketch/static/js/2.4bd849ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84ceb867.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4bd849ff.chunk.js",
+    "static/css/main.410c1768.chunk.css",
+    "static/js/main.b2b50445.chunk.js"
+  ]
+}
